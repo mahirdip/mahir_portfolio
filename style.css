@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightgray;
+    padding: 0 200px;
+}
+
+nav ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    margin-right: 20px;
+    align-items: center;
+}
